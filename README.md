@@ -9,5 +9,4 @@
 - 📫 How to reach me: send me an email here -> lupe.egoavil@gmail.com OR connet with me on [LinkedIn](https://www.linkedin.com/in/luisa-egoavil/)
 - ⚡ Fun fact: I play the violin 🎻 since I was 6 years old, love to play videogames 🎮 , and speak 3 languages (Spanish, German & English)! 🙂
 
-![Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisaEgoavil&theme=onedark&show_icons=true&line_height=24&hide_border=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaEgoavil&theme=onedark&hide=shell&hide_title=true&layout=compact&hide_border=true)](https://github.com/LuisaEgoavil/github-readme-stats)
+
